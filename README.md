@@ -6,6 +6,7 @@
 
 - I like basketball and 🏀
 - The series based on real events.🎬
+- I like to read books that are true stories or consects that I do not know
 
 *************
 
