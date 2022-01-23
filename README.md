@@ -4,7 +4,7 @@
 
 #### I am a lover of new technologies and programming, my favorite language is javaScript because of its ease of use and because it can be used in different branches of programming.
 
-- I like basketball and 🏀
+- I like basketball 🏀
 - The series based on real events.🎬
 - I like to read books that are true stories or consects that I do not know 📚
 
