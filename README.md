@@ -9,6 +9,9 @@
 - I like to read books that are true stories or consects that I do not know 📚
 
 *************
+<h3 align="center"> Currently work 🏠👨‍💻 </h3>
+
+
 
 ### Badges
 
