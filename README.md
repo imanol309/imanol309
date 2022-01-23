@@ -9,9 +9,9 @@
 - I like to read books that are true stories or consects that I do not know 📚
 
 *************
-<h3 align="center"> Currently work 🏠👨‍💻 </h3>
+<h3 > Currently work 🏠👨‍💻 </h3>
   
-  <h4 align="center">
+  <h4>
      <a href="https://github.com/intellisysdcorp">
         Intellisys d corp
     </a>
