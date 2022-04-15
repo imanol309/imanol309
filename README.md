@@ -61,12 +61,6 @@
   <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
 </p>
 
-### Repositorios TOP
-
-[![](https://github-readme-stats.vercel.app/api/pin/?username=imanol309&repo=api-peliculas-do&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/imanol309/api-peliculas-do)
-
----
-
 ### Iconos & badgets sociales
 
 <p>Instagram <a href="https://www.instagram.com/imanolp7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="veritechie" height="30" width="40" /></a>
