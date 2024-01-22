@@ -2,7 +2,7 @@
 
 <h3 align="center"> Who am I and what do I like? 🤔💥</h3>
 
-#### +4 years of experience as a Software developer, performing different roles such as developer, QA automation, project leader, and mentoring new interns and juniors in the company. In the projects that I have worked on, I increased the speed by up to 40% and drastically improved the User Interface (UI) implementing them with the best practices.
+#### Full-stack developer with 4 years of experience building web and mobile applications using JavaScript, TypeScript, React, Angular, Node.js, and other technologies. I have worked on projects in various industries such as healthcare, education, and consulting, leading teams and mentoring junior developers. I excel at improving the user experience, scalability, and performance of the projects I work on. I seek to bring my experience in UX and scalability to drive the growth of the company.
 
 - I like basketball 🏀
 - The series based on real events.🎬
@@ -12,7 +12,7 @@
 <h3 > Currently work 🏠👨‍💻 </h3>
   
   <h4>
-     <a href="https://github.com/intellisysdcorp">
-        Intellisys d corp
+     <a href="https://www.workmate.cl/">
+        Workmate
     </a>
  </h5>
